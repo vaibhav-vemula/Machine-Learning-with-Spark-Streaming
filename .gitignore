@@ -1,0 +1,8 @@
+
+dataset/cifar
+dataset/pokemon
+dataset/sentiment
+dataset/spam
+dataset/crime
+
+.DS_Store
