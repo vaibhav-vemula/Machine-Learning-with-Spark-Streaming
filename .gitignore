@@ -6,3 +6,4 @@ dataset/spam
 dataset/crime
 
 .DS_Store
+src/stream.py
