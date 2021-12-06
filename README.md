@@ -7,7 +7,7 @@ The data source is a stream and  application faces the constraint of only being 
 
 
 ### Selected Dataset -
-- San Francisco Crime Classification
-    - Each crime is a single vector of size 9
-    - The label or category is the second feature
-    - 878k records in train and test dataset
+Enron Email Spam Detection
+    - Each record consists of 3 features - the subject, the email content and the label
+    - Each email is one of 2 classes, spam or ham
+    - 30k examples in train and 3k in test
